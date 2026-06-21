@@ -1,0 +1,6 @@
+httpx
+requests
+pyyaml
+playwright
+openai
+python-dotenv

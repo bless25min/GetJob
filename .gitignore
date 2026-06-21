@@ -1,0 +1,9 @@
+.env
+auth/*.json
+auth/chrome-profile/
+data/*.sqlite
+outputs/screenshots/*.png
+outputs/letters/*.txt
+__pycache__/
+*.pyc
+.venv/

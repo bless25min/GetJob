@@ -1,0 +1,146 @@
+app:
+  name: "104 Auto Apply Runner"
+  timezone: "Asia/Taipei"
+
+mode:
+  dry_run: true
+  auto_apply_enabled: true
+  headless: false
+  slow_mo_ms: 300
+
+browser:
+  cdp_endpoint: "http://127.0.0.1:9222"
+  use_persistent_context: false
+  channel: "chrome"
+  user_data_dir: "auth/chrome-profile"
+
+search:
+  keywords:
+    - AI 專案經理
+    - AI 營運
+    - AI 自動化
+    - 流程自動化
+    - 數位轉型
+    - MarTech
+    - Growth PM
+    - ChatGPT
+    - Google Sheets 自動化
+  pages_per_keyword: 2
+  pagesize: 20
+  max_jobs_per_keyword: 20
+  area_codes:
+    - "6001001000" # 台北市
+    - "6001002000" # 新北市
+  fetch_details: false
+  isnew_days: 14
+  order: "date"
+
+limits:
+  score_threshold: 82
+  max_apply_per_run: 3
+  max_apply_per_day: 8
+  max_apply_per_company_per_day: 1
+  request_delay_seconds: 1.5
+
+filters:
+  allowed_locations:
+    - 台北
+    - 新北
+    - 遠端
+    - 混合
+    - 不限
+  reject_title_keywords:
+    - 前端工程師
+    - 後端工程師
+    - 全端工程師
+    - 軟體工程師
+    - 資料工程師
+    - 資料科學家
+    - 演算法工程師
+    - 機器學習工程師
+    - 深度學習工程師
+    - 韌體工程師
+    - 嵌入式工程師
+    - 資安工程師
+    - 行政助理
+    - 小編
+    - 客服專員
+    - 業務代表
+    - 電話行銷
+    - 保險業務
+    - 房仲
+    - 直銷
+    - 派遣
+  reject_text_keywords:
+    - C++
+    - 韌體
+    - 嵌入式
+    - Linux kernel
+    - 深度學習模型訓練
+    - computer vision research
+    - 資安滲透
+    - 輪班
+    - 電話銷售
+    - 保險業務
+    - 房仲
+    - 直銷
+    - 派遣
+  positive_keywords:
+    - AI
+    - ChatGPT
+    - Claude
+    - 自動化
+    - 流程
+    - SOP
+    - PM
+    - 專案
+    - 專案管理
+    - 營運
+    - 數位轉型
+    - MarTech
+    - Growth
+    - 報表
+    - Google Sheets
+    - Excel
+    - Make
+    - Zapier
+    - Notion
+    - Python
+    - Apps Script
+    - CRM
+    - LINE
+    - 數據
+    - 優化
+
+letter:
+  min_chars: 250
+  max_chars: 900
+  target_chars_min: 350
+  target_chars_max: 550
+  required_sentence: "本次職缺搜尋、需求解析、條件比對、應徵流程與自我推薦信初稿，皆由我自行開發的 AI 求職 Agent 協助完成，並依我預先設定的投遞條件執行。"
+  forbidden_phrases:
+    - 資深後端工程師
+    - 資料科學家
+    - AI 研究員
+    - 模型訓練專家
+    - 深度學習專家
+    - 全端工程師
+    - 我精通 C++
+    - 我精通底層系統
+
+llm:
+  provider: "openai_compatible"
+  base_url: ""
+  api_key: ""
+  model: ""
+  temperature: 0.4
+  max_tokens: 1200
+  retry_on_json_error: 1
+
+safety:
+  stop_on_captcha: true
+  stop_on_login_required: true
+  stop_on_2fa: true
+  stop_on_unknown_form: false
+  screenshot_every_application: true
+  screenshot_on_error: true

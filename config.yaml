@@ -3,7 +3,7 @@ app:
   timezone: "Asia/Taipei"
 
 mode:
-  dry_run: true
+  dry_run: false
   auto_apply_enabled: true
   headless: false
   slow_mo_ms: 300
@@ -37,8 +37,8 @@ search:
 
 limits:
   score_threshold: 82
-  max_apply_per_run: 3
-  max_apply_per_day: 8
+  max_apply_per_run: 50
+  max_apply_per_day: 999
   max_apply_per_company_per_day: 1
   request_delay_seconds: 1.5
 

@@ -1,0 +1,541 @@
+[
+  {
+    "job_id": "8v23d",
+    "job_url": "https://www.104.com.tw/job/8v23d",
+    "status": "applied",
+    "error": "",
+    "note": "submitted in probe run"
+  },
+  {
+    "job_id": "8zlem",
+    "job_url": "https://www.104.com.tw/job/8zlem",
+    "status": "failed",
+    "error": "SECURITY_VERIFICATION_RETRY_FAILED",
+    "note": "104 security verification visible before apply"
+  },
+  {
+    "job_id": "915un",
+    "job_url": "https://www.104.com.tw/job/915un",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "8f6lx",
+    "job_url": "https://www.104.com.tw/job/8f6lx",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "922yb",
+    "job_url": "https://www.104.com.tw/job/922yb",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "91f0x",
+    "job_url": "https://www.104.com.tw/job/91f0x",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "90kry",
+    "job_url": "https://www.104.com.tw/job/90kry",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "8yqi4",
+    "job_url": "https://www.104.com.tw/job/8yqi4",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "8v5un",
+    "job_url": "https://www.104.com.tw/job/8v5un",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "8kxxs",
+    "job_url": "https://www.104.com.tw/job/8kxxs",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "91a3c",
+    "job_url": "https://www.104.com.tw/job/91a3c",
+    "status": "failed",
+    "error": "SECURITY_VERIFICATION_RETRY_FAILED",
+    "note": "104 security verification visible before apply"
+  },
+  {
+    "job_id": "8ed1b",
+    "job_url": "https://www.104.com.tw/job/8ed1b",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "6ch1p",
+    "job_url": "https://www.104.com.tw/job/6ch1p",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "92hy9",
+    "job_url": "https://www.104.com.tw/job/92hy9",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "8xfo8",
+    "job_url": "https://www.104.com.tw/job/8xfo8",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "917r1",
+    "job_url": "https://www.104.com.tw/job/917r1",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "8kgja",
+    "job_url": "https://www.104.com.tw/job/8kgja",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "8clp7",
+    "job_url": "https://www.104.com.tw/job/8clp7",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "924qb",
+    "job_url": "https://www.104.com.tw/job/924qb",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "90pck",
+    "job_url": "https://www.104.com.tw/job/90pck",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "8zw3k",
+    "job_url": "https://www.104.com.tw/job/8zw3k",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "6mz5f",
+    "job_url": "https://www.104.com.tw/job/6mz5f",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "8t0kk",
+    "job_url": "https://www.104.com.tw/job/8t0kk",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "8hr7d",
+    "job_url": "https://www.104.com.tw/job/8hr7d",
+    "status": "failed",
+    "error": "SECURITY_VERIFICATION_RETRY_FAILED",
+    "note": "104 security verification visible before apply"
+  },
+  {
+    "job_id": "8wrq7",
+    "job_url": "https://www.104.com.tw/job/8wrq7",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "8jfm5",
+    "job_url": "https://www.104.com.tw/job/8jfm5",
+    "status": "already_applied",
+    "error": "",
+    "note": "104 page indicates already applied"
+  },
+  {
+    "job_id": "90i1e",
+    "job_url": "https://www.104.com.tw/job/90i1e",
+    "status": "review_needed",
+    "error": "SUBMIT_RESULT_UNCLEAR_AFTER_RETRY",
+    "note": "工作 公司 工具 職涯 學習 APP 所有服務 科技業現場徵才 廖天佑 104人力銀行 安然科技有限公司 AI 專案經理 (AI Project Manager)｜微軟年度最佳合作夥伴 | 全面 AI 驅動團隊｜領先進入未來工作模式 AI 專案經理 (AI Project Manager)｜微軟年度最佳合作夥伴 | 全面 AI 驅動團隊｜領先進入未來工作模式06/17更新 安然科技有限公司本公司其他工作 5 天內處理過履歷 關注 儲存 "
+  },
+  {
+    "job_id": "90a0e",
+    "job_url": "https://www.104.com.tw/job/90a0e",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "766yb",
+    "job_url": "https://www.104.com.tw/job/766yb",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "8xrxo",
+    "job_url": "https://www.104.com.tw/job/8xrxo",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "9178o",
+    "job_url": "https://www.104.com.tw/job/9178o",
+    "status": "failed",
+    "error": "SECURITY_VERIFICATION_RETRY_FAILED",
+    "note": "104 security verification visible before apply"
+  },
+  {
+    "job_id": "8zlk4",
+    "job_url": "https://www.104.com.tw/job/8zlk4",
+    "status": "failed",
+    "error": "SECURITY_VERIFICATION_RETRY_FAILED",
+    "note": "104 security verification visible before apply"
+  },
+  {
+    "job_id": "9067s",
+    "job_url": "https://www.104.com.tw/job/9067s",
+    "status": "failed",
+    "error": "SECURITY_VERIFICATION_RETRY_FAILED",
+    "note": "104 security verification visible before apply"
+  },
+  {
+    "job_id": "90gpj",
+    "job_url": "https://www.104.com.tw/job/90gpj",
+    "status": "failed",
+    "error": "SECURITY_VERIFICATION_RETRY_FAILED",
+    "note": "104 security verification visible before apply"
+  },
+  {
+    "job_id": "7l12g",
+    "job_url": "https://www.104.com.tw/job/7l12g",
+    "status": "failed",
+    "error": "SECURITY_VERIFICATION_RETRY_FAILED",
+    "note": "104 security verification visible before apply"
+  },
+  {
+    "job_id": "8xast",
+    "job_url": "https://www.104.com.tw/job/8xast",
+    "status": "failed",
+    "error": "SECURITY_VERIFICATION_RETRY_FAILED",
+    "note": "104 security verification visible before apply"
+  },
+  {
+    "job_id": "8zf1r",
+    "job_url": "https://www.104.com.tw/job/8zf1r",
+    "status": "failed",
+    "error": "SECURITY_VERIFICATION_RETRY_FAILED",
+    "note": "104 security verification visible before apply"
+  },
+  {
+    "job_id": "8h9jn",
+    "job_url": "https://www.104.com.tw/job/8h9jn",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "905me",
+    "job_url": "https://www.104.com.tw/job/905me",
+    "status": "applied",
+    "error": "",
+    "note": "submitted successfully"
+  },
+  {
+    "job_id": "7c9y7",
+    "job_url": "https://www.104.com.tw/job/7c9y7",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "8oghd",
+    "job_url": "https://www.104.com.tw/job/8oghd",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "7biwl",
+    "job_url": "https://www.104.com.tw/job/7biwl",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "2l20n",
+    "job_url": "https://www.104.com.tw/job/2l20n",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "8vqxx",
+    "job_url": "https://www.104.com.tw/job/8vqxx",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "92ald",
+    "job_url": "https://www.104.com.tw/job/92ald",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "926sl",
+    "job_url": "https://www.104.com.tw/job/926sl",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "8vu3q",
+    "job_url": "https://www.104.com.tw/job/8vu3q",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "90vbj",
+    "job_url": "https://www.104.com.tw/job/90vbj",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "7o5gr",
+    "job_url": "https://www.104.com.tw/job/7o5gr",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "92op9",
+    "job_url": "https://www.104.com.tw/job/92op9",
+    "status": "failed",
+    "error": "SECURITY_VERIFICATION_RETRY_FAILED",
+    "note": "104 security verification visible before apply"
+  },
+  {
+    "job_id": "92lzn",
+    "job_url": "https://www.104.com.tw/job/92lzn",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "92921",
+    "job_url": "https://www.104.com.tw/job/92921",
+    "status": "failed",
+    "error": "SECURITY_VERIFICATION_RETRY_FAILED",
+    "note": "104 security verification visible before apply"
+  },
+  {
+    "job_id": "91cks",
+    "job_url": "https://www.104.com.tw/job/91cks",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "7x6n5",
+    "job_url": "https://www.104.com.tw/job/7x6n5",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "6ht8q",
+    "job_url": "https://www.104.com.tw/job/6ht8q",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "8n5ds",
+    "job_url": "https://www.104.com.tw/job/8n5ds",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "6emc9",
+    "job_url": "https://www.104.com.tw/job/6emc9",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=2, controls=1"
+  },
+  {
+    "job_id": "47hyr",
+    "job_url": "https://www.104.com.tw/job/47hyr",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "91ffi",
+    "job_url": "https://www.104.com.tw/job/91ffi",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "8woui",
+    "job_url": "https://www.104.com.tw/job/8woui",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "7zig3",
+    "job_url": "https://www.104.com.tw/job/7zig3",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "91u9o",
+    "job_url": "https://www.104.com.tw/job/91u9o",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "91vyu",
+    "job_url": "https://www.104.com.tw/job/91vyu",
+    "status": "applied",
+    "error": "",
+    "note": "submitted successfully"
+  },
+  {
+    "job_id": "8wq49",
+    "job_url": "https://www.104.com.tw/job/8wq49",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "8uu3v",
+    "job_url": "https://www.104.com.tw/job/8uu3v",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "906ee",
+    "job_url": "https://www.104.com.tw/job/906ee",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "4yk8v",
+    "job_url": "https://www.104.com.tw/job/4yk8v",
+    "status": "review_needed",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY",
+    "note": "no visible top apply button"
+  },
+  {
+    "job_id": "8ouow",
+    "job_url": "https://www.104.com.tw/job/8ouow",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "903hp",
+    "job_url": "https://www.104.com.tw/job/903hp",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "8n468",
+    "job_url": "https://www.104.com.tw/job/8n468",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "8v49r",
+    "job_url": "https://www.104.com.tw/job/8v49r",
+    "status": "review_needed",
+    "error": "EXTRA_ANSWER_REQUIRED",
+    "note": "extra fields detected: textarea=1, controls=1"
+  },
+  {
+    "job_id": "44pur",
+    "job_url": "https://www.104.com.tw/job/44pur",
+    "status": "review_needed",
+    "error": "RETRY_AUTOMATION_ERROR",
+    "note": "tab104 is not defined"
+  },
+  {
+    "job_id": "92n3r",
+    "job_url": "https://www.104.com.tw/job/92n3r",
+    "status": "review_needed",
+    "error": "RETRY_AUTOMATION_ERROR",
+    "note": "tab104 is not defined"
+  },
+  {
+    "job_id": "91cma",
+    "job_url": "https://www.104.com.tw/job/91cma",
+    "status": "review_needed",
+    "error": "RETRY_AUTOMATION_ERROR",
+    "note": "tab104 is not defined"
+  },
+  {
+    "job_id": "8sohe",
+    "job_url": "https://www.104.com.tw/job/8sohe",
+    "status": "review_needed",
+    "error": "RETRY_AUTOMATION_ERROR",
+    "note": "tab104 is not defined"
+  },
+  {
+    "job_id": "8y8sl",
+    "job_url": "https://www.104.com.tw/job/8y8sl",
+    "status": "review_needed",
+    "error": "RETRY_AUTOMATION_ERROR",
+    "note": "tab104 is not defined"
+  },
+  {
+    "job_id": "8tdxt",
+    "job_url": "https://www.104.com.tw/job/8tdxt",
+    "status": "review_needed",
+    "error": "RETRY_AUTOMATION_ERROR",
+    "note": "tab104 is not defined"
+  }
+]

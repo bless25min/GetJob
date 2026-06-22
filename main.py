@@ -91,7 +91,13 @@ BLOCKING_TEXTS = ["驗證碼", "人機驗證", "安全驗證", "二階段驗證"
 QUESTION_TEXTS = ["額外問題", "應徵問答", "請回答", "問答題"]
 SUCCESS_TEXTS = ["應徵成功", "已送出", "已應徵", "已投遞", "送出成功"]
 TEXTAREA_SELECTORS = ["textarea", "[contenteditable='true']", "div[role='textbox']"]
-STOP_APPLY_ERRORS = {"LOGIN_REQUIRED", "CAPTCHA_DETECTED", "TWO_FA_REQUIRED"}
+STOP_APPLY_ERRORS = {
+    "LOGIN_REQUIRED",
+    "CAPTCHA_DETECTED",
+    "TWO_FA_REQUIRED",
+    "CDP_CONNECTION_FAILED",
+    "PLAYWRIGHT_NOT_INSTALLED",
+}
 
 
 def get_now_iso() -> str:
@@ -708,7 +714,12 @@ def browser_launch_options(config: dict[str, Any], *, force_headless: bool | Non
 def open_browser_context(playwright: Any, config: dict[str, Any], *, for_login: bool = False) -> tuple[Any, Any | None]:
     cdp_endpoint = browser_cdp_endpoint(config)
     if cdp_endpoint:
-        browser = playwright.chromium.connect_over_cdp(cdp_endpoint)
+        try:
+            browser = playwright.chromium.connect_over_cdp(cdp_endpoint)
+        except Exception as exc:
+            raise RuntimeError(
+                f"CDP_CONNECTION_FAILED: 無法連上 {cdp_endpoint}。請先用 `--remote-debugging-port=9222` 開啟已登入的 Chrome。"
+            ) from exc
         if not browser.contexts:
             raise RuntimeError("Connected Chrome has no browser context. Open Chrome with a normal profile first.")
         context = browser.contexts[0]
@@ -1565,6 +1576,7 @@ def command_apply(args: argparse.Namespace) -> int:
 
         db_update_job(job["job_id"], status="applying", error="")
         status, error, screenshot_path = apply_with_playwright(job, config)
+        stop_error = error.split(":", 1)[0] if isinstance(error, str) else ""
         update_fields: dict[str, Any] = {
             "status": status,
             "error": error,
@@ -1578,7 +1590,7 @@ def command_apply(args: argparse.Namespace) -> int:
             processed_this_run += 1
         db_update_job(job["job_id"], **update_fields)
 
-        if error in STOP_APPLY_ERRORS:
+        if error in STOP_APPLY_ERRORS or stop_error in STOP_APPLY_ERRORS:
             print(f"apply stopped: {error}")
             break
         if applied_this_run >= max_per_run:
@@ -1767,3 +1779,4 @@ def main(argv: list[str] | None = None) -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+

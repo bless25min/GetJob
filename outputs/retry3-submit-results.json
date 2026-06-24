@@ -1,0 +1,38 @@
+[
+  {
+    "job_id": "8rn17",
+    "company": "立端科技股份有限公司",
+    "title": "《PM》Edge AI Product Manager",
+    "url": "https://www.104.com.tw/job/8rn17?apply=form",
+    "success": true,
+    "state": "applied",
+    "reason": "104 完成頁確認",
+    "finalUrl": "https://www.104.com.tw/job/apply/done/?jobNo=8rn17",
+    "method": "dom",
+    "initialUrl": "https://www.104.com.tw/job/8rn17?apply=form"
+  },
+  {
+    "job_id": "70ih7",
+    "company": "聚達系統股份有限公司",
+    "title": "專案管理【技術型PM／專案管理師／PMO／產品顧問】（台北）",
+    "url": "https://www.104.com.tw/job/70ih7?apply=form",
+    "success": true,
+    "state": "applied",
+    "reason": "104 完成頁確認",
+    "finalUrl": "https://www.104.com.tw/job/apply/done/?jobNo=70ih7",
+    "method": "dom",
+    "initialUrl": "https://www.104.com.tw/job/70ih7?apply=form"
+  },
+  {
+    "job_id": "73ctv",
+    "company": "聚達系統股份有限公司",
+    "title": "AIOps／可觀測性（Observability）【產品技術顧問】 (台北)",
+    "url": "https://www.104.com.tw/job/73ctv?apply=form",
+    "success": true,
+    "state": "applied",
+    "reason": "104 完成頁確認",
+    "finalUrl": "https://www.104.com.tw/job/apply/done/?jobNo=73ctv",
+    "method": "dom",
+    "initialUrl": "https://www.104.com.tw/job/73ctv?apply=form"
+  }
+]

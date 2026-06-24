@@ -1,0 +1,78 @@
+[
+  {
+    "job_id": "8wl88",
+    "title": "軟體產品經理 Product Manager - SaaS",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8wl88",
+    "keyword": "AI Product Manager",
+    "score": 100,
+    "checked_at": "2026-06-24T10:03:19.652Z",
+    "live_title": "軟體產品經理 Product Manager - SaaS",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "CAPTCHA/安全驗證"
+  },
+  {
+    "job_id": "92t4p",
+    "title": "[B2B] AI產品經理 (數位行銷產品與CRM)",
+    "company": "",
+    "url": "https://www.104.com.tw/job/92t4p",
+    "keyword": "生成式 AI 專案",
+    "score": 100,
+    "checked_at": "2026-06-24T10:03:22.147Z",
+    "live_title": "[B2B] AI產品經理 (數位行銷產品與CRM)",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "8yf1l",
+    "title": "【AI數位金融】數位金融營運管理專業人員",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8yf1l",
+    "keyword": "AI 流程",
+    "score": 85,
+    "checked_at": "2026-06-24T10:03:24.730Z",
+    "live_title": "【AI數位金融】數位金融營運管理專業人員",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "8z0wh",
+    "title": "TUMI TAIWAN : Senior Sales Associate 資深銷售顧問 / Sales Associate 銷售顧問",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8z0wh",
+    "keyword": "數位創新 顧問",
+    "score": 85,
+    "checked_at": "2026-06-24T10:03:27.124Z",
+    "live_title": "TUMI TAIWAN : Senior Sales Associate 資深銷售顧問 / Sales Associate 銷售顧問",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  }
+]

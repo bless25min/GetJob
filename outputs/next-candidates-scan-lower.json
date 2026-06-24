@@ -1,0 +1,372 @@
+[
+  {
+    "job_id": "922pv",
+    "status": "failed",
+    "job_title": "【緯創資通】AI Server AM_汐止_6/27 (六) 台北面談會",
+    "company_name": "【企業專案招募】104未來無限整合招募中心",
+    "job_url": "https://www.104.com.tw/job/922pv",
+    "score": 84,
+    "reason": "職稱明確 AI 相關；貼近企業 AI 落地場景；含偏工程研究訊號，需人工確認",
+    "error": "FAILED_UNKNOWN: BrowserType.connect_over_cdp: connect ECONNREFUSED 127.0.0.1:9222\nCall log:\n  - <ws preparing> retrieving websocket url from http://127.0.0.1:9222\n"
+  },
+  {
+    "job_id": "892mn",
+    "status": "failed",
+    "job_title": "E8322 專案經理 PJM (台北)",
+    "company_name": "遠傳電信股份有限公司",
+    "job_url": "https://www.104.com.tw/job/892mn",
+    "score": 83,
+    "reason": "符合產品或專案管理方向",
+    "error": "FAILED_UNKNOWN: BrowserType.connect_over_cdp: connect ECONNREFUSED 127.0.0.1:9222\nCall log:\n  - <ws preparing> retrieving websocket url from http://127.0.0.1:9222\n"
+  },
+  {
+    "job_id": "8uon3",
+    "status": "failed",
+    "job_title": "【顧問部】金融科技與機器學習應用 (資料科學家/數據科學家)-317317",
+    "company_name": "KPMG_安侯建業聯合會計師事務所",
+    "job_url": "https://www.104.com.tw/job/8uon3",
+    "score": 83,
+    "reason": "接近 B2B 顧問/導入/客戶成功",
+    "error": "FAILED_UNKNOWN: BrowserType.connect_over_cdp: connect ECONNREFUSED 127.0.0.1:9222\nCall log:\n  - <ws preparing> retrieving websocket url from http://127.0.0.1:9222\n"
+  },
+  {
+    "job_id": "8wmv5",
+    "status": "failed",
+    "job_title": "DRAM_產品管理師 PM (Product Manager)",
+    "company_name": "宜鼎國際股份有限公司",
+    "job_url": "https://www.104.com.tw/job/8wmv5",
+    "score": 83,
+    "reason": "符合產品或專案管理方向",
+    "error": "FAILED_UNKNOWN: BrowserType.connect_over_cdp: connect ECONNREFUSED 127.0.0.1:9222\nCall log:\n  - <ws preparing> retrieving websocket url from http://127.0.0.1:9222\n"
+  },
+  {
+    "job_id": "7zig3",
+    "status": "review_needed",
+    "job_title": "【數位行銷專員】（SEO / 內容行銷 / B2B）",
+    "company_name": "聖威光電科技發展股份有限公司",
+    "job_url": "https://www.104.com.tw/job/7zig3",
+    "score": 82,
+    "reason": "貼近企業 AI 落地場景",
+    "error": "EXTRA_ANSWER_REQUIRED"
+  },
+  {
+    "job_id": "8wih9",
+    "status": "failed",
+    "job_title": "AI影音製作",
+    "company_name": "舒適美有限公司",
+    "job_url": "https://www.104.com.tw/job/8wih9",
+    "score": 82,
+    "reason": "職稱明確 AI 相關",
+    "error": "FAILED_UNKNOWN: BrowserType.connect_over_cdp: connect ECONNREFUSED 127.0.0.1:9222\nCall log:\n  - <ws preparing> retrieving websocket url from http://127.0.0.1:9222\n"
+  },
+  {
+    "job_id": "8ycug",
+    "status": "failed",
+    "job_title": "PM 專案經理 / Project Manager《企劃部》【台北事業處】",
+    "company_name": "千享國際企業股份有限公司",
+    "job_url": "https://www.104.com.tw/job/8ycug",
+    "score": 82,
+    "reason": "符合產品或專案管理方向",
+    "error": "FAILED_UNKNOWN: BrowserType.connect_over_cdp: connect ECONNREFUSED 127.0.0.1:9222\nCall log:\n  - <ws preparing> retrieving websocket url from http://127.0.0.1:9222\n"
+  },
+  {
+    "job_id": "917r1",
+    "status": "review_needed",
+    "job_title": "學習內容專案經理_中文素養｜思辨表達_Learning Content Project Manager",
+    "company_name": "英屬維京群島商幫你優股份有限公司台灣分公司",
+    "job_url": "https://www.104.com.tw/job/917r1",
+    "score": 82,
+    "reason": "符合產品或專案管理方向",
+    "error": "EXTRA_ANSWER_REQUIRED"
+  },
+  {
+    "job_id": "91u9o",
+    "status": "review_needed",
+    "job_title": "AI應用指導師",
+    "company_name": "家樂生活嚴選團購_家樂學習窩教育科技有限公司",
+    "job_url": "https://www.104.com.tw/job/91u9o",
+    "score": 82,
+    "reason": "職稱明確 AI 相關；貼近企業 AI 落地場景",
+    "error": "EXTRA_ANSWER_REQUIRED"
+  },
+  {
+    "job_id": "47hyr",
+    "status": "review_needed",
+    "job_title": "【@cosme】資深品牌行銷顧問 (Senior Account Manager)",
+    "company_name": "艾思網絡股份有限公司",
+    "job_url": "https://www.104.com.tw/job/47hyr",
+    "score": 76,
+    "reason": "接近 B2B 顧問/導入/客戶成功",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY"
+  },
+  {
+    "job_id": "8woui",
+    "status": "review_needed",
+    "job_title": "SEO 優化分析師",
+    "company_name": "臣邑移民服務股份有限公司",
+    "job_url": "https://www.104.com.tw/job/8woui",
+    "score": 76,
+    "reason": "貼近企業 AI 落地場景",
+    "error": "EXTRA_ANSWER_REQUIRED"
+  },
+  {
+    "job_id": "8xfo8",
+    "status": "review_needed",
+    "job_title": "專案經理 project manager",
+    "company_name": "維思感創股份有限公司",
+    "job_url": "https://www.104.com.tw/job/8xfo8",
+    "score": 76,
+    "reason": "符合產品或專案管理方向",
+    "error": "EXTRA_ANSWER_REQUIRED"
+  },
+  {
+    "job_id": "91cma",
+    "status": "review_needed",
+    "job_title": "體育產品專案經理",
+    "company_name": "艾美斯科技有限公司",
+    "job_url": "https://www.104.com.tw/job/91cma",
+    "score": 76,
+    "reason": "符合產品或專案管理方向",
+    "error": "RETRY_CONTROL_FAILED"
+  },
+  {
+    "job_id": "7c9y7",
+    "status": "review_needed",
+    "job_title": "【@cosme】品牌成長顧問 (Brand Growth Consultant) | 數據行銷/MarTech",
+    "company_name": "艾思網絡股份有限公司",
+    "job_url": "https://www.104.com.tw/job/7c9y7",
+    "score": 75,
+    "reason": "接近 B2B 顧問/導入/客戶成功；含偏工程研究訊號，需人工確認",
+    "error": "APPLY_BUTTON_NOT_FOUND_AFTER_RETRY"
+  },
+  {
+    "job_id": "8wrq7",
+    "status": "review_needed",
+    "job_title": "專案經理 Project Manager",
+    "company_name": "亞太智能機器股份有限公司",
+    "job_url": "https://www.104.com.tw/job/8wrq7",
+    "score": 72,
+    "reason": "符合產品或專案管理方向；含偏工程研究訊號，需人工確認",
+    "error": "EXTRA_ANSWER_REQUIRED"
+  },
+  {
+    "job_id": "8xrxo",
+    "status": "review_needed",
+    "job_title": "TPM (Technical Project Manager) 技術專案經理",
+    "company_name": "新加坡商泓宇雲有限公司台灣分公司",
+    "job_url": "https://www.104.com.tw/job/8xrxo",
+    "score": 72,
+    "reason": "符合產品或專案管理方向；貼近企業 AI 落地場景；含偏工程研究訊號，需人工確認",
+    "error": "EXTRA_ANSWER_REQUIRED"
+  },
+  {
+    "job_id": "905ap",
+    "status": "found",
+    "job_title": "行銷企劃PM",
+    "company_name": "崧達企業股份有限公司",
+    "job_url": "https://www.104.com.tw/job/905ap",
+    "score": 69,
+    "reason": "符合產品/專案管理方向",
+    "error": ""
+  },
+  {
+    "job_id": "6db6g",
+    "status": "found",
+    "job_title": "系統工程師",
+    "company_name": "宇祥股份有限公司",
+    "job_url": "https://www.104.com.tw/job/6db6g",
+    "score": 67,
+    "reason": "AI/PM/顧問相關關鍵字命中",
+    "error": ""
+  },
+  {
+    "job_id": "6nxym",
+    "status": "found",
+    "job_title": "ERP專案管理師/PM",
+    "company_name": "日躍科技股份有限公司",
+    "job_url": "https://www.104.com.tw/job/6nxym",
+    "score": 67,
+    "reason": "符合產品/專案管理方向",
+    "error": ""
+  },
+  {
+    "job_id": "92wqb",
+    "status": "found",
+    "job_title": "專案管理師-智慧交通領域(IAD20)",
+    "company_name": "資拓宏宇國際股份有限公司",
+    "job_url": "https://www.104.com.tw/job/92wqb",
+    "score": 67,
+    "reason": "符合產品/專案管理方向；貼近 B2B SaaS/售前/客戶成功",
+    "error": ""
+  },
+  {
+    "job_id": "6hb2z",
+    "status": "found",
+    "job_title": "數位行銷開發顧問",
+    "company_name": "恩群數位行銷有限公司",
+    "job_url": "https://www.104.com.tw/job/6hb2z",
+    "score": 65,
+    "reason": "職務接近 AI 導入顧問",
+    "error": ""
+  },
+  {
+    "job_id": "7m8bu",
+    "status": "found",
+    "job_title": "Google 商家成長顧問",
+    "company_name": "恩群數位行銷有限公司",
+    "job_url": "https://www.104.com.tw/job/7m8bu",
+    "score": 65,
+    "reason": "職務接近 AI 導入顧問",
+    "error": ""
+  },
+  {
+    "job_id": "8x2ha",
+    "status": "found",
+    "job_title": "數位轉型發展中心【系統整合導入工程師/顧問】",
+    "company_name": "零壹科技股份有限公司_Zero One Tech",
+    "job_url": "https://www.104.com.tw/job/8x2ha",
+    "score": 65,
+    "reason": "職務接近 AI 導入顧問",
+    "error": ""
+  },
+  {
+    "job_id": "77en7",
+    "status": "found",
+    "job_title": "SAP人力資源系統顧問 - 培訓生(需有粵語能力)",
+    "company_name": "台灣顧雲股份有限公司",
+    "job_url": "https://www.104.com.tw/job/77en7",
+    "score": 64,
+    "reason": "職務接近 AI 導入顧問；貼近 B2B SaaS/售前/客戶成功",
+    "error": ""
+  },
+  {
+    "job_id": "92pco",
+    "status": "found",
+    "job_title": "【UberEats▲客戶營運專員Merchant Expansion & Onboarding Specialist】46K起+年獎金/協助客戶上線流程/EXCEL分析/優化客戶體驗_RFS_865",
+    "company_name": "藝珂人事顧問股份有限公司",
+    "job_url": "https://www.104.com.tw/job/92pco",
+    "score": 64,
+    "reason": "AI/PM/顧問相關關鍵字命中",
+    "error": ""
+  },
+  {
+    "job_id": "792zo",
+    "status": "found",
+    "job_title": "【顧問部】顧問師/高級顧問師 (數位金融轉型顧問_法金轉型 Corporate Banking Transformation)-317317",
+    "company_name": "KPMG_安侯建業聯合會計師事務所",
+    "job_url": "https://www.104.com.tw/job/792zo",
+    "score": 63,
+    "reason": "職務接近 AI 導入顧問",
+    "error": ""
+  },
+  {
+    "job_id": "88uz4",
+    "status": "found",
+    "job_title": "人力資源專員(招募與人才發展)",
+    "company_name": "亞新工程顧問股份有限公司",
+    "job_url": "https://www.104.com.tw/job/88uz4",
+    "score": 63,
+    "reason": "AI/PM/顧問相關關鍵字命中",
+    "error": ""
+  },
+  {
+    "job_id": "91ve8",
+    "status": "found",
+    "job_title": "PLM 系統工程師",
+    "company_name": "Cooler Master_訊凱國際股份有限公司",
+    "job_url": "https://www.104.com.tw/job/91ve8",
+    "score": 63,
+    "reason": "AI/PM/顧問相關關鍵字命中",
+    "error": ""
+  },
+  {
+    "job_id": "6mmnd",
+    "status": "found",
+    "job_title": "醫藥公關專案/企劃 (薪40K起/歡迎無經驗/教育訓練完整/升遷管道順暢)",
+    "company_name": "醫藥公關_藝曜行銷顧問有限公司",
+    "job_url": "https://www.104.com.tw/job/6mmnd",
+    "score": 62,
+    "reason": "符合產品/專案管理方向",
+    "error": ""
+  },
+  {
+    "job_id": "7a12r",
+    "status": "found",
+    "job_title": "經理/副理【需具備3-5年以上環保顧問同業經驗】",
+    "company_name": "環誠顧問有限公司",
+    "job_url": "https://www.104.com.tw/job/7a12r",
+    "score": 62,
+    "reason": "職務接近 AI 導入顧問",
+    "error": ""
+  },
+  {
+    "job_id": "7enyu",
+    "status": "found",
+    "job_title": "【數位轉型解決方案部門】Salesforce 開發顧問",
+    "company_name": "台灣恩悌悌數據股份有限公司",
+    "job_url": "https://www.104.com.tw/job/7enyu",
+    "score": 62,
+    "reason": "職務接近 AI 導入顧問",
+    "error": ""
+  },
+  {
+    "job_id": "8rnz1",
+    "status": "found",
+    "job_title": "D82 自研產品PM (可遠端工作)",
+    "company_name": "台灣固網股份有限公司",
+    "job_url": "https://www.104.com.tw/job/8rnz1",
+    "score": 62,
+    "reason": "符合產品/專案管理方向",
+    "error": ""
+  },
+  {
+    "job_id": "8vi58",
+    "status": "found",
+    "job_title": "FF-數位轉型診斷規劃顧問",
+    "company_name": "財團法人中衛發展中心",
+    "job_url": "https://www.104.com.tw/job/8vi58",
+    "score": 62,
+    "reason": "職務接近 AI 導入顧問",
+    "error": ""
+  },
+  {
+    "job_id": "90o8l",
+    "status": "found",
+    "job_title": "Infor SCE(WMS)系統顧問（儲備顧問/儲備專案經理）",
+    "company_name": "凌全科技股份有限公司",
+    "job_url": "https://www.104.com.tw/job/90o8l",
+    "score": 62,
+    "reason": "職務接近 AI 導入顧問；符合產品/專案管理方向；含偏工程研究或硬體訊號，需人工確認",
+    "error": ""
+  },
+  {
+    "job_id": "90907",
+    "status": "found",
+    "job_title": "JP 客戶營運經理 Account Manager / カスタマーサクセス / アカウントマネージャー (日本市場担当)",
+    "company_name": "微拓科技股份有限公司",
+    "job_url": "https://www.104.com.tw/job/90907",
+    "score": 61,
+    "reason": "貼近 B2B SaaS/售前/客戶成功",
+    "error": ""
+  },
+  {
+    "job_id": "7cy2y",
+    "status": "found",
+    "job_title": "永續ESG_助理顧問師",
+    "company_name": "華威利群國際股份有限公司",
+    "job_url": "https://www.104.com.tw/job/7cy2y",
+    "score": 60,
+    "reason": "職務接近 AI 導入顧問",
+    "error": ""
+  },
+  {
+    "job_id": "8e8i7",
+    "status": "found",
+    "job_title": "永續顧問師",
+    "company_name": "財團法人台灣產業服務基金會",
+    "job_url": "https://www.104.com.tw/job/8e8i7",
+    "score": 60,
+    "reason": "職務接近 AI 導入顧問",
+    "error": ""
+  }
+]

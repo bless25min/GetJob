@@ -543,5 +543,1796 @@
       "title": "104 - 應徵完成頁",
       "url": "https://www.104.com.tw/job/apply/done/?jobNo=92j8h"
     }
+  },
+  {
+    "job_id": "8k529",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "state": {
+      "success": true,
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8k529",
+      "title": "104 - 應徵完成頁"
+    },
+    "company_name": "益特資訊有限公司",
+    "job_title": "客戶維繫專員 Customer Success Specialist｜餐飲 SaaS（台北）",
+    "applied_at": "2026-06-24T00:39:24+08:00"
+  },
+  {
+    "job_id": "91xwn",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "state": {
+      "success": true,
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=91xwn",
+      "title": "104 - 應徵完成頁"
+    },
+    "company_name": "歐易企業股份有限公司",
+    "job_title": "MES(Manufacturing Execution System)業務顧問",
+    "applied_at": "2026-06-24T00:39:24+08:00"
+  },
+  {
+    "job_id": "8skxo",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "state": {
+      "success": true,
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8skxo",
+      "title": "104 - 應徵完成頁"
+    },
+    "company_name": "益特資訊有限公司",
+    "job_title": "開發型業務｜SaaS顧問夥伴招募（餐飲科技 × 台北）擴編中",
+    "applied_at": "2026-06-24T00:39:24+08:00"
+  },
+  {
+    "job_id": "90162",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "state": {
+      "success": true,
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=90162",
+      "title": "104 - 應徵完成頁"
+    },
+    "company_name": "永豐金證券股份有限公司",
+    "job_title": "數位產品專案經理(投資顧問部)",
+    "applied_at": "2026-06-24T00:39:24+08:00"
+  },
+  {
+    "job_id": "84s0h",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "state": {
+      "success": true,
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=84s0h",
+      "title": "104 - 應徵完成頁"
+    },
+    "company_name": "DTC_迪梯西數位科技有限公司",
+    "job_title": "Salesforce CRM助理顧問/專案經理",
+    "applied_at": "2026-06-24T00:39:24+08:00"
+  },
+  {
+    "job_id": "8dy71",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "state": {
+      "success": true,
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8dy71",
+      "title": "104 - 應徵完成頁"
+    },
+    "company_name": "KPMG_安侯建業聯合會計師事務所",
+    "job_title": "【顧問部】高級顧問/副理 (數位創新服務_數位新興科技策略家 Digital Emerging Technology Strategist)-317317",
+    "applied_at": "2026-06-24T00:57:01+08:00"
+  },
+  {
+    "job_id": "8vjry",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "state": {
+      "success": true,
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8vjry",
+      "title": "104 - 應徵完成頁"
+    },
+    "company_name": "遠東國際商業銀行股份有限公司",
+    "job_title": "【AI數位金融】AI應用發展PM",
+    "applied_at": "2026-06-24T00:57:01+08:00"
+  },
+  {
+    "job_id": "6nxym",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "state": {
+      "success": true,
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=6nxym",
+      "title": "104 - 應徵完成頁"
+    },
+    "company_name": "日躍科技股份有限公司",
+    "job_title": "ERP專案管理師/PM",
+    "applied_at": "2026-06-24T00:57:01+08:00"
+  },
+  {
+    "job_id": "6hb2z",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "state": {
+      "success": true,
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=6hb2z",
+      "title": "104 - 應徵完成頁"
+    },
+    "company_name": "恩群數位行銷有限公司",
+    "job_title": "數位行銷開發顧問",
+    "applied_at": "2026-06-24T00:57:01+08:00"
+  },
+  {
+    "job_id": "792zo",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "state": {
+      "success": true,
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=792zo",
+      "title": "104 - 應徵完成頁"
+    },
+    "company_name": "KPMG_安侯建業聯合會計師事務所",
+    "job_title": "【顧問部】顧問師/高級顧問師 (數位金融轉型顧問_法金轉型 Corporate Banking Transformation)-317317",
+    "applied_at": "2026-06-24T00:57:01+08:00"
+  },
+  {
+    "job_id": "7enyu",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "state": {
+      "success": true,
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=7enyu",
+      "title": "104 - 應徵完成頁"
+    },
+    "company_name": "台灣恩悌悌數據股份有限公司",
+    "job_title": "【數位轉型解決方案部門】Salesforce 開發顧問",
+    "applied_at": "2026-06-24T00:57:01+08:00"
+  },
+  {
+    "job_id": "6ht8q",
+    "company_name": "禾多移動多媒體股份有限公司",
+    "job_title": "(Martech/AI) 專案管理師 / Project Manager (PM)",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:43:56+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=6ht8q",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "7biwl",
+    "company_name": "宜鼎國際股份有限公司",
+    "job_title": "AIoT_產品經理 PM (Product Manager)",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:43:56+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=7biwl",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "87lef",
+    "company_name": "東南旅行社股份有限公司",
+    "job_title": "產品經理 (會員CRM)【數位數據發展本部】",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:43:56+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=87lef",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "8h9jn",
+    "company_name": "未來巢科技股份有限公司",
+    "job_title": "AI 產品經理 AI Product Manager",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:43:56+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8h9jn",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "8rb81",
+    "company_name": "台灣固網股份有限公司",
+    "job_title": "D81 企業AI PM",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:43:56+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8rb81",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "8roeh",
+    "company_name": "宜鼎國際股份有限公司",
+    "job_title": "Flash_Enterprise Storage 產品架構師/產品經理 PM (Product Manager) (產品企劃三部 專員/高級專員)",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:43:56+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8roeh",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "8te92",
+    "company_name": "91APP_英屬開曼群島商九一應用軟體股份有限公司台灣分公司",
+    "job_title": "電商 PM（品牌代操）",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:43:56+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8te92",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "8v2cw",
+    "company_name": "三民教育科技股份有限公司",
+    "job_title": "【台北總部】資深 AI 專案管理｜AI Publishing Project Manager",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:43:56+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8v2cw",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "8v6w9",
+    "company_name": "阿瘦實業股份有限公司",
+    "job_title": "數位行銷PM",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:43:56+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8v6w9",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "8w64f",
+    "company_name": "麟數據科技股份有限公司",
+    "job_title": "軟體產品管理師（MarTech/AI）",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:43:56+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8w64f",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "8wj6x",
+    "company_name": "精聯電子股份有限公司",
+    "job_title": "專案管理專員/副理-A7013",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:43:56+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8wj6x",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "8wka6",
+    "company_name": "QNAP_威聯通科技股份有限公司",
+    "job_title": "65100-資安專案經理",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:43:56+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8wka6",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "8zoc0",
+    "company_name": "立特有限公司",
+    "job_title": "PM - AI/IoT 軟體產品導入經理",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:43:56+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8zoc0",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "8zpzf",
+    "company_name": "天下雜誌股份有限公司",
+    "job_title": "《天下雜誌》AI 專案經理｜AI PM",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:58:06+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8zpzf",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "8zqo1",
+    "company_name": "永訊智庫股份有限公司",
+    "job_title": "碳盤查 x AI 顧問｜GHG Inventory Consultant",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:58:06+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8zqo1",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "915un",
+    "company_name": "微達軟體有限公司",
+    "job_title": "AI 流程轉型顧問 (AI Process Transformation Consultant)",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:58:06+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=915un",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "91f0x",
+    "company_name": "遠雄人壽保險事業股份有限公司(總公司)",
+    "job_title": "經企_數位轉型專案管理師 (RPA、AI )",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:58:06+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=91f0x",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "922yb",
+    "company_name": "歐比特國際創意股份有限公司",
+    "job_title": "【AI 營運管理師】#流程自動化# AI工具導入#數據分析",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:58:06+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=922yb",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "92goh",
+    "company_name": "源萃貿易股份有限公司",
+    "job_title": "資深零售系統專案經理 (Senior Retail Systems PM)",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:58:06+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=92goh",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "92mc9",
+    "company_name": "網際智慧股份有限公司",
+    "job_title": "專案管理 (主任 / 經理)",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:58:06+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=92mc9",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "92zhe",
+    "company_name": "台灣智慧雲端服務股份有限公司",
+    "job_title": "產品經理(AI Agent & Tool)",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:58:06+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=92zhe",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "82slf",
+    "company_name": "微拓科技股份有限公司",
+    "job_title": "產品經理 Product Manager",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:58:06+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=82slf",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "8jnko",
+    "company_name": "永豐商業銀行股份有限公司",
+    "job_title": "資訊處-生成式AI 需求管理人員 /生成式AI 專案管理人員",
+    "status": "applied",
+    "error": "browser_submit_success",
+    "applied_at": "2026-06-24T11:58:06+08:00",
+    "state": {
+      "success": true,
+      "title": "104 - 應徵完成頁",
+      "url": "https://www.104.com.tw/job/apply/done/?jobNo=8jnko",
+      "text": "應徵成功"
+    }
+  },
+  {
+    "job_id": "90sl1",
+    "company": "研揚科技股份有限公司",
+    "title": "人工智慧平台產業電腦PM(BXD)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=90sl1",
+    "apply_url": "https://www.104.com.tw/job/90sl1?apply=form",
+    "timestamp": "2026-06-24T04:15:15.483192+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "92rn1",
+    "company": "社團法人臺灣數位企業總會",
+    "title": "政府專案管理經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=92rn1",
+    "apply_url": "https://www.104.com.tw/job/92rn1?apply=form",
+    "timestamp": "2026-06-24T04:15:15.483192+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "5ev1y",
+    "company": "雲湧資訊股份有限公司",
+    "title": "PM",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=5ev1y",
+    "apply_url": "https://www.104.com.tw/job/5ev1y?apply=form",
+    "timestamp": "2026-06-24T04:15:15.483192+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "6qcmz",
+    "company": "KPMG_安侯建業聯合會計師事務所",
+    "title": "【顧問部】金融風險科技服務顧問-317317(風控長服務)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=6qcmz",
+    "apply_url": "https://www.104.com.tw/job/6qcmz?apply=form",
+    "timestamp": "2026-06-24T04:15:15.483192+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8dy4s",
+    "company": "KPMG_安侯建業聯合會計師事務所",
+    "title": "【顧問部】高級顧問師/副理 (AI應用與數據分析)-317317",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8dy4s",
+    "apply_url": "https://www.104.com.tw/job/8dy4s?apply=form",
+    "timestamp": "2026-06-24T04:15:15.483192+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "7cbid",
+    "company": "明基佳世達集團_星益欣數位服務股份有限公司",
+    "title": "【台北】系統導入顧問/專案管理師－智慧零售/智慧餐飲系統",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=7cbid",
+    "apply_url": "https://www.104.com.tw/job/7cbid?apply=form",
+    "timestamp": "2026-06-24T04:15:15.483192+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "7jg8e",
+    "company": "汎宇電商股份有限公司",
+    "title": "PM／SA 專案管理師（AI 協作）",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=7jg8e",
+    "apply_url": "https://www.104.com.tw/job/7jg8e?apply=form",
+    "timestamp": "2026-06-24T04:15:15.483192+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "7p53c",
+    "company": "源點科技股份有限公司",
+    "title": "【台北】專案管理師",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=7p53c",
+    "apply_url": "https://www.104.com.tw/job/7p53c?apply=form",
+    "timestamp": "2026-06-24T04:15:15.483192+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "7s3fo",
+    "company": "微拓科技股份有限公司",
+    "title": "【客戶成功部】數位策略顧問 / 經理 Digital Strategy Consultant / Manager",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=7s3fo",
+    "apply_url": "https://www.104.com.tw/job/7s3fo?apply=form",
+    "timestamp": "2026-06-24T04:15:15.483192+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "808my",
+    "company": "KPMG_安侯建業聯合會計師事務所",
+    "title": "【顧問部】人工智慧策略與治理顧問(靈活工作地點)-319319",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=808my",
+    "apply_url": "https://www.104.com.tw/job/808my?apply=form",
+    "timestamp": "2026-06-24T04:15:15.483192+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8f6lx",
+    "company": "未來巢科技股份有限公司",
+    "title": "AI 導入顧問 AI Application Consultant",
+    "success": false,
+    "state": "review_needed",
+    "url": "https://www.104.com.tw/job/8f6lx?apply=form",
+    "apply_url": "https://www.104.com.tw/job/8f6lx?apply=form",
+    "timestamp": "2026-06-24T04:15:15.483192+00:00",
+    "text": "出現雇主額外提問，未自動回答",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8alde",
+    "company": "中華工程股份有限公司",
+    "title": "【總公司】董事長室_數位轉型專案經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8alde",
+    "apply_url": "https://www.104.com.tw/job/8alde?apply=form",
+    "timestamp": "2026-06-24T04:15:15.483192+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "6vlo3",
+    "company": "天瀚國際科技有限公司",
+    "title": "資深產品經理 (保證年薪 1.4M - 2.1M)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=6vlo3",
+    "apply_url": "https://www.104.com.tw/job/6vlo3?apply=form",
+    "timestamp": "2026-06-24T04:15:15.483192+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8arrm",
+    "company": "台灣屈臣氏個人用品商店股份有限公司",
+    "title": "會員經營主任/ CRM Supervisor",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8arrm",
+    "apply_url": "https://www.104.com.tw/job/8arrm?apply=form",
+    "timestamp": "2026-06-24T04:15:15.483192+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8w33a",
+    "company": "中華民國資訊軟體服務商業同業公會",
+    "title": "商業服務業AI轉型輔導PM",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8w33a",
+    "apply_url": "https://www.104.com.tw/job/8w33a?apply=form",
+    "timestamp": "2026-06-24T04:15:15.483192+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "7ma8n",
+    "company": "君主科技_德隆股份有限公司",
+    "title": "產品/專案經理 Product/Project Manager",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=7ma8n",
+    "apply_url": "https://www.104.com.tw/job/7ma8n?apply=form",
+    "timestamp": "2026-06-24T04:30:43.980141+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8dxzv",
+    "company": "KPMG_安侯建業聯合會計師事務所",
+    "title": "【顧問部】顧問師/高級顧問師 (AI數據分析師)-317317",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8dxzv",
+    "apply_url": "https://www.104.com.tw/job/8dxzv?apply=form",
+    "timestamp": "2026-06-24T04:30:43.980141+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8k41a",
+    "company": "QNAP_威聯通科技股份有限公司",
+    "title": "64100-Marketing Product Manager(台北)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8k41a",
+    "apply_url": "https://www.104.com.tw/job/8k41a?apply=form",
+    "timestamp": "2026-06-24T04:30:43.980141+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "906ee",
+    "company": "展揚管理顧問有限公司",
+    "title": "企業數位轉型顧問",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=906ee",
+    "apply_url": "https://www.104.com.tw/job/906ee?apply=form",
+    "timestamp": "2026-06-24T04:30:43.980141+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8smxv",
+    "company": "台新新光金控_台新國際商業銀行股份有限公司",
+    "title": "〔金控〕數位轉型專案經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8smxv",
+    "apply_url": "https://www.104.com.tw/job/8smxv?apply=form",
+    "timestamp": "2026-06-24T04:30:43.980141+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "90kmj",
+    "company": "中信學校財團法人中信金融管理學院",
+    "title": "高階專案經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=90kmj",
+    "apply_url": "https://www.104.com.tw/job/90kmj?apply=form",
+    "timestamp": "2026-06-24T04:30:43.980141+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8ysjr",
+    "company": "凱勒斯科技股份有限公司",
+    "title": "專案管理人員",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8ysjr",
+    "apply_url": "https://www.104.com.tw/job/8ysjr?apply=form",
+    "timestamp": "2026-06-24T04:30:43.980141+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "90a0e",
+    "company": "三立電視台_三立電視股份有限公司",
+    "title": "AI 自動化專員 / Cowork 管理師",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=90a0e",
+    "apply_url": "https://www.104.com.tw/job/90a0e?apply=form",
+    "timestamp": "2026-06-24T04:30:43.980141+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8xho5",
+    "company": "台新新光金控_台新國際商業銀行股份有限公司",
+    "title": "〔AI〕AI應用規劃師(台北)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8xho5",
+    "apply_url": "https://www.104.com.tw/job/8xho5?apply=form",
+    "timestamp": "2026-06-24T04:30:43.980141+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "92qk2",
+    "company": "誠研科技股份有限公司",
+    "title": "台北廠_產品處專案經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=92qk2",
+    "apply_url": "https://www.104.com.tw/job/92qk2?apply=form",
+    "timestamp": "2026-06-24T04:30:43.980141+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8rn17",
+    "company": "立端科技股份有限公司",
+    "title": "《PM》Edge AI Product Manager",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8rn17",
+    "apply_url": "https://www.104.com.tw/job/8rn17?apply=form",
+    "timestamp": "2026-06-24T04:43:24.380750+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "908q0",
+    "company": "台灣恩悌悌數據股份有限公司",
+    "title": "【顧問服務部】企業AI架構師 Enterprise AI Architect",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=908q0",
+    "apply_url": "https://www.104.com.tw/job/908q0?apply=form",
+    "timestamp": "2026-06-24T04:30:43.980141+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "92dk4",
+    "company": "宏碁股份有限公司",
+    "title": "【PM】AI Product Manager (Server and Workstation)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=92dk4",
+    "apply_url": "https://www.104.com.tw/job/92dk4?apply=form",
+    "timestamp": "2026-06-24T04:30:43.980141+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "70ih7",
+    "company": "聚達系統股份有限公司",
+    "title": "專案管理【技術型PM／專案管理師／PMO／產品顧問】（台北）",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=70ih7",
+    "apply_url": "https://www.104.com.tw/job/70ih7?apply=form",
+    "timestamp": "2026-06-24T04:43:24.380750+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "73ctv",
+    "company": "聚達系統股份有限公司",
+    "title": "AIOps／可觀測性（Observability）【產品技術顧問】 (台北)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=73ctv",
+    "apply_url": "https://www.104.com.tw/job/73ctv?apply=form",
+    "timestamp": "2026-06-24T04:43:24.380750+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "7o5gr",
+    "company": "環球睿視股份有限公司",
+    "title": "AI PM(AI產品研發與客戶專案管理)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=7o5gr",
+    "apply_url": "https://www.104.com.tw/job/7o5gr?apply=form",
+    "timestamp": "2026-06-24T04:30:43.980141+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8xqfe",
+    "company": "海悅國際開發股份有限公司",
+    "title": "【總公司】AI專案管理師（媒體數據部）",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8xqfe",
+    "apply_url": "https://www.104.com.tw/job/8xqfe?apply=form",
+    "timestamp": "2026-06-24T04:30:43.980141+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "90i1e",
+    "company": "安然科技有限公司",
+    "title": "AI 專案經理 (AI Project Manager)｜微軟年度最佳合作夥伴 | 全面 AI 驅動團隊｜領先進入未來工作模式",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=90i1e",
+    "apply_url": "https://www.104.com.tw/job/90i1e?apply=form",
+    "timestamp": "2026-06-24T04:30:43.980141+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "90bcj",
+    "company": "城韻維度設計制作有限公司",
+    "title": "專案經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=90bcj",
+    "apply_url": "https://www.104.com.tw/job/90bcj?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8by9o",
+    "company": "慧友電子股份有限公司",
+    "title": "產品經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8by9o",
+    "apply_url": "https://www.104.com.tw/job/8by9o?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "92mkl",
+    "company": "安馳科技股份有限公司",
+    "title": "產品經理 Product Marketing Manager",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=92mkl",
+    "apply_url": "https://www.104.com.tw/job/92mkl?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "92n3r",
+    "company": "遠振資訊股份有限公司",
+    "title": "專案經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=92n3r",
+    "apply_url": "https://www.104.com.tw/job/92n3r?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "6uy87",
+    "company": "米蘭數位傳播集團_米蘭營銷策劃股份有限公司",
+    "title": "【MESh+】資深產品經理 / Senior Product Manager",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=6uy87",
+    "apply_url": "https://www.104.com.tw/job/6uy87?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "7c7xx",
+    "company": "育碁數位科技股份有限公司",
+    "title": "專案經理(系統導入)(台北辦公室)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=7c7xx",
+    "apply_url": "https://www.104.com.tw/job/7c7xx?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "7ydhm",
+    "company": "微拓科技股份有限公司",
+    "title": "JP 導入顧問 / 專案經理 (Implementation Consultant / Project Manager)  /導入コンサルタント／プロジェクトマネージャー",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=7ydhm",
+    "apply_url": "https://www.104.com.tw/job/7ydhm?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "811bg",
+    "company": "精聯電子股份有限公司",
+    "title": "軟體產品經理PM - A7201",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=811bg",
+    "apply_url": "https://www.104.com.tw/job/811bg?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8dsi7",
+    "company": "叡揚資訊股份有限公司",
+    "title": "專案經理(24070406)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8dsi7",
+    "apply_url": "https://www.104.com.tw/job/8dsi7?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8mv4b",
+    "company": "Kontron Asia_光宸科技股份有限公司",
+    "title": "專案經理 Project Manager",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8mv4b",
+    "apply_url": "https://www.104.com.tw/job/8mv4b?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8rym0",
+    "company": "承諾企業管理顧問有限公司",
+    "title": "ISO資安顧問儲備PM【歡迎理工/資工/企管背景 對顧問工作有興趣者】",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8rym0",
+    "apply_url": "https://www.104.com.tw/job/8rym0?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8s15b",
+    "company": "洰和股份有限公司",
+    "title": "資深產品經理／Senior Product Manager",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8s15b",
+    "apply_url": "https://www.104.com.tw/job/8s15b?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "910wl",
+    "company": "QNAP_威聯通科技股份有限公司",
+    "title": "64100-Marketing Product Manager",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=910wl",
+    "apply_url": "https://www.104.com.tw/job/910wl?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "91yqj",
+    "company": "Advantech_研華股份有限公司",
+    "title": "CRM平台策略管理專案經理 CRM Platform Master_JR202603087",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=91yqj",
+    "apply_url": "https://www.104.com.tw/job/91yqj?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "907fs",
+    "company": "邁達特數位股份有限公司",
+    "title": "雲端與 SaaS 產品｜產品營運經理【聚上雲-產品營運部】",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=907fs",
+    "apply_url": "https://www.104.com.tw/job/907fs?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "927gt",
+    "company": "食集資訊股份有限公司",
+    "title": "餐飲科技 SaaS | 客戶導入經理 (餐飲供應商)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=927gt",
+    "apply_url": "https://www.104.com.tw/job/927gt?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "6mz5f",
+    "company": "英屬開曼群島商萬里雲互聯股份有限公司台灣分公司",
+    "title": "專案經理 Project Manager",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=6mz5f",
+    "apply_url": "https://www.104.com.tw/job/6mz5f?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8dbom",
+    "company": "91APP_英屬開曼群島商九一應用軟體股份有限公司台灣分公司",
+    "title": "［USD］解決方案導入顧問 / Solution Consultant（服務各大國際零售品牌客戶）",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8dbom",
+    "apply_url": "https://www.104.com.tw/job/8dbom?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8t0kk",
+    "company": "思邁智能股份有限公司",
+    "title": "【思邁智能】專案經理 - Project Manager (PM)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8t0kk",
+    "apply_url": "https://www.104.com.tw/job/8t0kk?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "90x2j",
+    "company": "安索帕股份有限公司",
+    "title": "(Senior) Manager, AI Planning",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=90x2j",
+    "apply_url": "https://www.104.com.tw/job/90x2j?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "92qxh",
+    "company": "碩益科技股份有限公司",
+    "title": "解決方案顧問",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=92qxh",
+    "apply_url": "https://www.104.com.tw/job/92qxh?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "892mn",
+    "company": "遠傳電信股份有限公司",
+    "title": "E8322 專案經理 PJM (台北)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=892mn",
+    "apply_url": "https://www.104.com.tw/job/892mn?apply=form",
+    "timestamp": "2026-06-24T04:53:41.813589+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8y0sd",
+    "company": "荷蘭商飯山有限公司",
+    "title": "產品經理主管 / PM Head",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8y0sd",
+    "apply_url": "https://www.104.com.tw/job/8y0sd?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8ylha",
+    "company": "全曜財經資訊股份有限公司",
+    "title": "【新鮮人】Associate Product Builder (APB) 產品經理培訓計畫(JIRA737)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8ylha",
+    "apply_url": "https://www.104.com.tw/job/8ylha?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "7s0c7",
+    "company": "Fungs Design_鳳三設計工作室",
+    "title": "專案經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=7s0c7",
+    "apply_url": "https://www.104.com.tw/job/7s0c7?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8e45o",
+    "company": "樵屋國際股份有限公司",
+    "title": "PM產品線經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8e45o",
+    "apply_url": "https://www.104.com.tw/job/8e45o?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8qgxo",
+    "company": "德承股份有限公司",
+    "title": "產品企劃人員 (PM)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8qgxo",
+    "apply_url": "https://www.104.com.tw/job/8qgxo?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8zymi",
+    "company": "奧提瑪股份有限公司",
+    "title": "產品經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8zymi",
+    "apply_url": "https://www.104.com.tw/job/8zymi?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "90hov",
+    "company": "天晴資訊有限公司",
+    "title": "App專案經理(大安)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=90hov",
+    "apply_url": "https://www.104.com.tw/job/90hov?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "92ra7",
+    "company": "新澤企管顧問有限公司",
+    "title": "CRM行銷專員(台北)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=92ra7",
+    "apply_url": "https://www.104.com.tw/job/92ra7?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "7c9y7",
+    "company": "艾思網絡股份有限公司",
+    "title": "【@cosme】品牌成長顧問 (Brand Growth Consultant) | 數據行銷/MarTech",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=7c9y7",
+    "apply_url": "https://www.104.com.tw/job/7c9y7?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8ycug",
+    "company": "千享國際企業股份有限公司",
+    "title": "PM 專案經理 / Project Manager《企劃部》【台北事業處】",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8ycug",
+    "apply_url": "https://www.104.com.tw/job/8ycug?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "64mmd",
+    "company": "萬維科技股份有限公司",
+    "title": "專案經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=64mmd",
+    "apply_url": "https://www.104.com.tw/job/64mmd?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "912kv",
+    "company": "立象科技股份有限公司",
+    "title": "軟體PM",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=912kv",
+    "apply_url": "https://www.104.com.tw/job/912kv?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8uu9i",
+    "company": "二十一世紀數位科技股份有限公司",
+    "title": "專案經理/產品經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8uu9i",
+    "apply_url": "https://www.104.com.tw/job/8uu9i?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "92ywt",
+    "company": "台灣米高蒲志國際股份有限公司",
+    "title": "AI伺服器 - Technical PM",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=92ywt",
+    "apply_url": "https://www.104.com.tw/job/92ywt?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8ie42",
+    "company": "天心資訊開發股份有限公司",
+    "title": "ERP系統輔導顧問",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8ie42",
+    "apply_url": "https://www.104.com.tw/job/8ie42?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8u6eu",
+    "company": "東柏資訊科技股份有限公司",
+    "title": "專案管理師",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8u6eu",
+    "apply_url": "https://www.104.com.tw/job/8u6eu?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "92z53",
+    "company": "TutorABC_麥奇數位股份有限公司",
+    "title": "Senior Technical Project Manager資深技術專案經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=92z53",
+    "apply_url": "https://www.104.com.tw/job/92z53?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "6uhdj",
+    "company": "中華資安國際股份有限公司",
+    "title": "資安產品研發產品經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=6uhdj",
+    "apply_url": "https://www.104.com.tw/job/6uhdj?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8hi4h",
+    "company": "零碳科技股份有限公司",
+    "title": "碳管理顧問 (Carbon Solutions Consultant)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8hi4h",
+    "apply_url": "https://www.104.com.tw/job/8hi4h?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8xclg",
+    "company": "安永聯合會計師事務所",
+    "title": "【諮詢服務】資安轉型與數位風險諮詢 - 顧問/資深顧問",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8xclg",
+    "apply_url": "https://www.104.com.tw/job/8xclg?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8zvv6",
+    "company": "晴仁數位文化有限公司",
+    "title": "政府標案企劃專員｜提案寫作 × 補助案 × AI應用",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8zvv6",
+    "apply_url": "https://www.104.com.tw/job/8zvv6?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "5pxkv",
+    "company": "好好證券股份有限公司",
+    "title": "好好證券-金融科技(Fintech)產品經理(PM)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=5pxkv",
+    "apply_url": "https://www.104.com.tw/job/5pxkv?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "83x5u",
+    "company": "亞洲指標數位行銷顧問股份有限公司",
+    "title": "大數據專案經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=83x5u",
+    "apply_url": "https://www.104.com.tw/job/83x5u?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8seyw",
+    "company": "新加坡商昇新科技股份有限公司台灣分公司",
+    "title": "【PM】Software Product Manager / 軟體產品經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8seyw",
+    "apply_url": "https://www.104.com.tw/job/8seyw?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "398zm",
+    "company": "研揚科技股份有限公司",
+    "title": "PM(ECD)",
+    "success": false,
+    "state": "skipped",
+    "url": "https://www.104.com.tw/job/398zm?apply=form",
+    "apply_url": "https://www.104.com.tw/job/398zm?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "職稱或產業偏離履歷定位",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "5zxh7",
+    "company": "凱恩傑科技股份有限公司",
+    "title": "PM",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=5zxh7",
+    "apply_url": "https://www.104.com.tw/job/5zxh7?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "6g325",
+    "company": "研揚科技股份有限公司",
+    "title": "Sr. PM(ECD)",
+    "success": false,
+    "state": "skipped",
+    "url": "https://www.104.com.tw/job/6g325?apply=form",
+    "apply_url": "https://www.104.com.tw/job/6g325?apply=form",
+    "timestamp": "2026-06-24T05:01:49.909533+00:00",
+    "text": "職稱或產業偏離履歷定位",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8qqrr",
+    "company": "訊聯基因數位股份有限公司",
+    "title": "QMS 系統工程師 / 專案經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8qqrr",
+    "apply_url": "https://www.104.com.tw/job/8qqrr?apply=form",
+    "timestamp": "2026-06-24T05:06:24.711675+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8xfo8",
+    "company": "維思感創股份有限公司",
+    "title": "專案經理 project manager",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8xfo8",
+    "apply_url": "https://www.104.com.tw/job/8xfo8?apply=form",
+    "timestamp": "2026-06-24T05:06:24.711675+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "78w7p",
+    "company": "三民教育科技股份有限公司",
+    "title": "【台北總部】教育資訊專案經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=78w7p",
+    "apply_url": "https://www.104.com.tw/job/78w7p?apply=form",
+    "timestamp": "2026-06-24T05:06:24.711675+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "7mqfz",
+    "company": "精誠軟體服務股份有限公司",
+    "title": "專案經理-M115",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=7mqfz",
+    "apply_url": "https://www.104.com.tw/job/7mqfz?apply=form",
+    "timestamp": "2026-06-24T05:06:24.711675+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "7ocvh",
+    "company": "環耀實境有限公司",
+    "title": "數位專案經理 (Digital PM)｜主導國家級「線上展覽」 × 歷史人文的數位轉譯者",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=7ocvh",
+    "apply_url": "https://www.104.com.tw/job/7ocvh?apply=form",
+    "timestamp": "2026-06-24T05:06:24.711675+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "88az6",
+    "company": "台灣大哥大股份有限公司",
+    "title": "行動服務產品PM",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=88az6",
+    "apply_url": "https://www.104.com.tw/job/88az6?apply=form",
+    "timestamp": "2026-06-24T05:06:24.711675+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8od7s",
+    "company": "奧美廣告股份有限公司",
+    "title": "奧美顧客體驗 - Senior Project Manager 資深數位體驗專案經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8od7s",
+    "apply_url": "https://www.104.com.tw/job/8od7s?apply=form",
+    "timestamp": "2026-06-24T05:06:24.711675+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8r1fc",
+    "company": "財團法人台灣地理資訊中心",
+    "title": "專案經理（資訊系統專案）",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8r1fc",
+    "apply_url": "https://www.104.com.tw/job/8r1fc?apply=form",
+    "timestamp": "2026-06-24T05:06:24.711675+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8t7r6",
+    "company": "沃提利數位有限公司",
+    "title": "軟體專案經理 Software Project Manager",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8t7r6",
+    "apply_url": "https://www.104.com.tw/job/8t7r6?apply=form",
+    "timestamp": "2026-06-24T05:06:24.711675+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8vpqm",
+    "company": "統一資訊股份有限公司",
+    "title": "專案經理(物流)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8vpqm",
+    "apply_url": "https://www.104.com.tw/job/8vpqm?apply=form",
+    "timestamp": "2026-06-24T05:06:24.711675+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8xr80",
+    "company": "奧義智慧科技股份有限公司",
+    "title": "資深專案經理 Sr. Project Manager (政府機關) (非主管職)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8xr80",
+    "apply_url": "https://www.104.com.tw/job/8xr80?apply=form",
+    "timestamp": "2026-06-24T05:06:24.711675+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "92zi9",
+    "company": "廣騰系統股份有限公司",
+    "title": "專案經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=92zi9",
+    "apply_url": "https://www.104.com.tw/job/92zi9?apply=form",
+    "timestamp": "2026-06-24T05:06:24.711675+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8wrq7",
+    "company": "亞太智能機器股份有限公司",
+    "title": "專案經理 Project Manager",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8wrq7",
+    "apply_url": "https://www.104.com.tw/job/8wrq7?apply=form",
+    "timestamp": "2026-06-24T05:06:24.711675+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8xrxo",
+    "company": "新加坡商泓宇雲有限公司台灣分公司",
+    "title": "TPM (Technical Project Manager) 技術專案經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8xrxo",
+    "apply_url": "https://www.104.com.tw/job/8xrxo?apply=form",
+    "timestamp": "2026-06-24T05:06:24.711675+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8sarz",
+    "company": "微拓科技股份有限公司",
+    "title": "JP 數位策略分析師/分析顧問 / デジタル戦略アナリスト/デジタル戦略コンサルタント",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8sarz",
+    "apply_url": "https://www.104.com.tw/job/8sarz?apply=form",
+    "timestamp": "2026-06-24T05:06:24.711675+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "7pbdm",
+    "company": "君主科技_德隆股份有限公司",
+    "title": "產品設計師（Product Manager / Product Designer）",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=7pbdm",
+    "apply_url": "https://www.104.com.tw/job/7pbdm?apply=form",
+    "timestamp": "2026-06-24T05:10:19.343559+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8l8kd",
+    "company": "中信金控_台灣人壽保險股份有限公司",
+    "title": "銀保_銀保通路PM",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8l8kd",
+    "apply_url": "https://www.104.com.tw/job/8l8kd?apply=form",
+    "timestamp": "2026-06-24T05:10:19.343559+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8u1k3",
+    "company": "奕瑪國際行銷股份有限公司",
+    "title": "產品PM",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8u1k3",
+    "apply_url": "https://www.104.com.tw/job/8u1k3?apply=form",
+    "timestamp": "2026-06-24T05:10:19.343559+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8wpr6",
+    "company": "兆利科技工業股份有限公司",
+    "title": "專案管理資深專員(Senior Project Specialist)【PM】",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8wpr6",
+    "apply_url": "https://www.104.com.tw/job/8wpr6?apply=form",
+    "timestamp": "2026-06-24T05:10:19.343559+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8xjhg",
+    "company": "大朋電子工業股份有限公司",
+    "title": "專案經理",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=8xjhg",
+    "apply_url": "https://www.104.com.tw/job/8xjhg?apply=form",
+    "timestamp": "2026-06-24T05:10:19.343559+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "7e1g1",
+    "company": "艾新科環保材料有限公司",
+    "title": "PM專案管理師",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=7e1g1",
+    "apply_url": "https://www.104.com.tw/job/7e1g1?apply=form",
+    "timestamp": "2026-06-24T05:10:19.343559+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "7ptge",
+    "company": "叡揚資訊股份有限公司",
+    "title": "系統維運專案PM(22080201)",
+    "success": true,
+    "state": "applied",
+    "url": "https://www.104.com.tw/job/apply/done/?jobNo=7ptge",
+    "apply_url": "https://www.104.com.tw/job/7ptge?apply=form",
+    "timestamp": "2026-06-24T05:10:19.343559+00:00",
+    "text": "104 完成頁確認",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "83zpp",
+    "company": "磐儀科技股份有限公司",
+    "title": "PM資深管理師/專案經副理",
+    "success": false,
+    "state": "review_needed",
+    "url": "https://www.104.com.tw/job/83zpp?apply=form",
+    "apply_url": "https://www.104.com.tw/job/83zpp?apply=form",
+    "timestamp": "2026-06-24T05:10:19.343559+00:00",
+    "text": "雇主額外提問",
+    "source": "chrome_extension_live_apply"
+  },
+  {
+    "job_id": "8t0jv",
+    "job_title": "【思邁智能】AI 產品經理 - AI Product Manager (PM)",
+    "company_name": "",
+    "job_url": "https://www.104.com.tw/job/8t0jv",
+    "status": "applied",
+    "reason": "browser_submit_success",
+    "done_url": "https://www.104.com.tw/job/apply/done/?jobNo=8t0jv",
+    "applied_at": "2026-06-24T09:57:09.380Z",
+    "batch": "chrome-crawl-20260624"
+  },
+  {
+    "job_id": "8r6jg",
+    "job_title": "(Presales)產業數位轉型顧問",
+    "company_name": "",
+    "job_url": "https://www.104.com.tw/job/8r6jg",
+    "status": "applied",
+    "reason": "browser_submit_success",
+    "done_url": "https://www.104.com.tw/job/apply/done/?jobNo=8r6jg",
+    "applied_at": "2026-06-24T09:57:24.764Z",
+    "batch": "chrome-crawl-20260624"
+  },
+  {
+    "job_id": "8nbng",
+    "job_title": "SA-企業業務開發顧問｜大型客戶、電商軟體SaaS、OMO",
+    "company_name": "",
+    "job_url": "https://www.104.com.tw/job/8nbng",
+    "status": "applied",
+    "reason": "browser_submit_success",
+    "done_url": "https://www.104.com.tw/job/apply/done/?jobNo=8nbng",
+    "applied_at": "2026-06-24T09:57:39.705Z",
+    "batch": "chrome-crawl-20260624"
+  },
+  {
+    "job_id": "8wio7",
+    "job_title": "數位轉型策略專案經理_15058",
+    "company_name": "",
+    "job_url": "https://www.104.com.tw/job/8wio7",
+    "status": "applied",
+    "reason": "browser_submit_success",
+    "done_url": "https://www.104.com.tw/job/apply/done/?jobNo=8wio7",
+    "applied_at": "2026-06-24T09:57:52.271Z",
+    "batch": "chrome-crawl-20260624"
+  },
+  {
+    "job_id": "8yxcx",
+    "job_title": "CRM 顧問/資深顧問",
+    "company_name": "",
+    "job_url": "https://www.104.com.tw/job/8yxcx",
+    "status": "applied",
+    "reason": "browser_submit_success",
+    "done_url": "https://www.104.com.tw/job/apply/done/?jobNo=8yxcx",
+    "applied_at": "2026-06-24T09:58:10.624Z",
+    "batch": "chrome-crawl-20260624"
+  },
+  {
+    "job_id": "90i0o",
+    "job_title": "AI 企業解決方案顧問 (AI Enterprise Solution Consultant)｜微軟年度最佳合作夥伴 | 全面 AI 驅動團隊｜領先進入未來工作模式",
+    "company_name": "",
+    "job_url": "https://www.104.com.tw/job/90i0o",
+    "status": "applied",
+    "reason": "browser_submit_success",
+    "done_url": "https://www.104.com.tw/job/apply/done/?jobNo=90i0o",
+    "applied_at": "2026-06-24T09:58:44.600Z",
+    "batch": "chrome-crawl-20260624"
   }
 ]

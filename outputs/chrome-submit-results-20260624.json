@@ -1,0 +1,761 @@
+[
+  {
+    "job_id": "8t0jv",
+    "title": "【思邁智能】AI 產品經理 - AI Product Manager (PM)",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8t0jv",
+    "keyword": "AI PM",
+    "score": 110,
+    "checked_at": "2026-06-24T09:56:58.338Z",
+    "live_title": "【思邁智能】AI 產品經理 - AI Product Manager (PM)",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "applied",
+    "reason": "browser_submit_success",
+    "done_url": "https://www.104.com.tw/job/apply/done/?jobNo=8t0jv",
+    "submitted_at": "2026-06-24T09:57:09.380Z"
+  },
+  {
+    "job_id": "82cb9",
+    "title": "【研發處】資安 AI 產品顧問",
+    "company": "",
+    "url": "https://www.104.com.tw/job/82cb9",
+    "keyword": "AI 顧問",
+    "score": 110,
+    "checked_at": "2026-06-24T09:57:09.440Z",
+    "live_title": "【研發處】資安 AI 產品顧問",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "CAPTCHA/安全驗證"
+  },
+  {
+    "job_id": "91sx1",
+    "title": "AI客戶成功顧問（Agatha, 企業AI代理人平台與解決方案）",
+    "company": "",
+    "url": "https://www.104.com.tw/job/91sx1",
+    "keyword": "AI 專案經理",
+    "score": 100,
+    "checked_at": "2026-06-24T09:57:11.766Z",
+    "live_title": "AI客戶成功顧問（Agatha, 企業AI代理人平台與解決方案）",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "91b8b",
+    "title": "【行銷科技】產品經理 Product Manager (MarTech 領域)",
+    "company": "",
+    "url": "https://www.104.com.tw/job/91b8b",
+    "keyword": "AI PM",
+    "score": 100,
+    "checked_at": "2026-06-24T09:57:14.278Z",
+    "live_title": "【行銷科技】產品經理 Product Manager (MarTech 領域)",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "8r6jg",
+    "title": "(Presales)產業數位轉型顧問",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8r6jg",
+    "keyword": "AI 顧問",
+    "score": 100,
+    "checked_at": "2026-06-24T09:57:16.601Z",
+    "live_title": "(Presales)產業數位轉型顧問",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "applied",
+    "reason": "browser_submit_success",
+    "done_url": "https://www.104.com.tw/job/apply/done/?jobNo=8r6jg",
+    "submitted_at": "2026-06-24T09:57:24.764Z"
+  },
+  {
+    "job_id": "7kryj",
+    "title": "【Ocard顧客經營管家】會員經營顧問 CRM consultant",
+    "company": "",
+    "url": "https://www.104.com.tw/job/7kryj",
+    "keyword": "AI 顧問",
+    "score": 100,
+    "checked_at": "2026-06-24T09:57:24.836Z",
+    "live_title": "【Ocard顧客經營管家】會員經營顧問 CRM consultant",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "8ylff",
+    "title": "(科技)AI數位轉型顧問",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8ylff",
+    "keyword": "AI 顧問",
+    "score": 100,
+    "checked_at": "2026-06-24T09:57:27.177Z",
+    "live_title": "(科技)AI數位轉型顧問",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "8nbng",
+    "title": "SA-企業業務開發顧問｜大型客戶、電商軟體SaaS、OMO",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8nbng",
+    "keyword": "AI 顧問",
+    "score": 100,
+    "checked_at": "2026-06-24T09:57:29.533Z",
+    "live_title": "SA-企業業務開發顧問｜大型客戶、電商軟體SaaS、OMO",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "applied",
+    "reason": "browser_submit_success",
+    "done_url": "https://www.104.com.tw/job/apply/done/?jobNo=8nbng",
+    "submitted_at": "2026-06-24T09:57:39.705Z"
+  },
+  {
+    "job_id": "8ycki",
+    "title": "Microsoft Dynamics 365 CRM / ERP 專案經理｜微軟年度最佳合作夥伴 | 全面 AI 驅動團隊｜領先進入未來工作模式",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8ycki",
+    "keyword": "流程自動化",
+    "score": 100,
+    "checked_at": "2026-06-24T09:57:39.761Z",
+    "live_title": "Microsoft Dynamics 365 CRM / ERP 專案經理｜微軟年度最佳合作夥伴 | 全面 AI 驅動團隊｜領先進入未來工作模式",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "8wio7",
+    "title": "數位轉型策略專案經理_15058",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8wio7",
+    "keyword": "數位轉型",
+    "score": 100,
+    "checked_at": "2026-06-24T09:57:42.092Z",
+    "live_title": "數位轉型策略專案經理_15058",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "applied",
+    "reason": "browser_submit_success",
+    "done_url": "https://www.104.com.tw/job/apply/done/?jobNo=8wio7",
+    "submitted_at": "2026-06-24T09:57:52.271Z"
+  },
+  {
+    "job_id": "70due",
+    "title": "MKT-品牌媒體公關專案副理｜Brand PR Project Manager｜SaaS × 新零售 × 企業品牌經營",
+    "company": "",
+    "url": "https://www.104.com.tw/job/70due",
+    "keyword": "MarTech",
+    "score": 100,
+    "checked_at": "2026-06-24T09:57:52.322Z",
+    "live_title": "MKT-品牌媒體公關專案副理｜Brand PR Project Manager｜SaaS × 新零售 × 企業品牌經營",
+    "fit": {
+      "ok": false,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": true,
+      "hardwareBad": false
+    },
+    "status": "skipped",
+    "reason": "title_fit_not_match"
+  },
+  {
+    "job_id": "7x4vu",
+    "title": "SA-商務拓展顧問 Client Advisor｜電商軟體SaaS B2B業務",
+    "company": "",
+    "url": "https://www.104.com.tw/job/7x4vu",
+    "keyword": "SaaS 顧問",
+    "score": 100,
+    "checked_at": "2026-06-24T09:57:54.640Z",
+    "live_title": "SA-商務拓展顧問 Client Advisor｜電商軟體SaaS B2B業務",
+    "fit": {
+      "ok": false,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": true,
+      "hardwareBad": false
+    },
+    "status": "skipped",
+    "reason": "title_fit_not_match"
+  },
+  {
+    "job_id": "8q0wm",
+    "title": "(擴大徵才) 顧問型資深銷售代表（B2B/B2C/SaaS軟體產品｜季結獎金｜獎金無天花板）",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8q0wm",
+    "keyword": "SaaS 顧問",
+    "score": 100,
+    "checked_at": "2026-06-24T09:57:57.025Z",
+    "live_title": "(擴大徵才) 顧問型資深銷售代表（B2B/B2C/SaaS軟體產品｜季結獎金｜獎金無天花板）",
+    "fit": {
+      "ok": false,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": true,
+      "hardwareBad": false
+    },
+    "status": "skipped",
+    "reason": "title_fit_not_match"
+  },
+  {
+    "job_id": "8q0vw",
+    "title": "(擴大徵才) 顧問型銷售專員（B2B/B2C/SaaS 軟體產品｜專屬mentor｜季結獎金）",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8q0vw",
+    "keyword": "SaaS 顧問",
+    "score": 100,
+    "checked_at": "2026-06-24T09:57:59.390Z",
+    "live_title": "(擴大徵才) 顧問型銷售專員（B2B/B2C/SaaS 軟體產品｜專屬mentor｜季結獎金）",
+    "fit": {
+      "ok": false,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": true,
+      "hardwareBad": false
+    },
+    "status": "skipped",
+    "reason": "title_fit_not_match"
+  },
+  {
+    "job_id": "8yxcx",
+    "title": "CRM 顧問/資深顧問",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8yxcx",
+    "keyword": "SaaS 顧問",
+    "score": 100,
+    "checked_at": "2026-06-24T09:58:01.803Z",
+    "live_title": "CRM 顧問/資深顧問",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "applied",
+    "reason": "browser_submit_success",
+    "done_url": "https://www.104.com.tw/job/apply/done/?jobNo=8yxcx",
+    "submitted_at": "2026-06-24T09:58:10.624Z"
+  },
+  {
+    "job_id": "91i9s",
+    "title": "【資訊中心】AI 應用 / CRM 專案經理",
+    "company": "",
+    "url": "https://www.104.com.tw/job/91i9s",
+    "keyword": "CRM 專案",
+    "score": 100,
+    "checked_at": "2026-06-24T09:58:10.697Z",
+    "live_title": "【資訊中心】AI 應用 / CRM 專案經理",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "8pej9",
+    "title": "客戶成長專員 - 香港市場 (Customer Success Specialist - Hong Kong Market) (Based in Taipei)",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8pej9",
+    "keyword": "Customer Success",
+    "score": 100,
+    "checked_at": "2026-06-24T09:58:13.092Z",
+    "live_title": "客戶成長專員 - 香港市場 (Customer Success Specialist - Hong Kong Market) (Based in Taipei)",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "926fx",
+    "title": "客戶成長專員 - 越南市場 (Customer Success Specialist - Vietnam Market) (Based in Taipei)",
+    "company": "",
+    "url": "https://www.104.com.tw/job/926fx",
+    "keyword": "Customer Success",
+    "score": 100,
+    "checked_at": "2026-06-24T09:58:15.476Z",
+    "live_title": "客戶成長專員 - 越南市場 (Customer Success Specialist - Vietnam Market) (Based in Taipei)",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "901b6",
+    "title": "AI賦能課程活動專案經理 (AI Empowerment Education & Event PM)",
+    "company": "",
+    "url": "https://www.104.com.tw/job/901b6",
+    "keyword": "AI 專案經理",
+    "score": 85,
+    "checked_at": "2026-06-24T09:58:17.865Z",
+    "live_title": "AI賦能課程活動專案經理 (AI Empowerment Education & Event PM)",
+    "fit": {
+      "ok": false,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": true,
+      "hardwareBad": false
+    },
+    "status": "skipped",
+    "reason": "title_fit_not_match"
+  },
+  {
+    "job_id": "9306q",
+    "title": "產品經理-AIoT領域-雲資部",
+    "company": "",
+    "url": "https://www.104.com.tw/job/9306q",
+    "keyword": "AI 專案經理",
+    "score": 85,
+    "checked_at": "2026-06-24T09:58:20.241Z",
+    "live_title": "產品經理-AIoT領域-雲資部",
+    "fit": {
+      "ok": false,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": true
+    },
+    "status": "skipped",
+    "reason": "title_fit_not_match"
+  },
+  {
+    "job_id": "8vch9",
+    "title": "AI產品營運專案經理_15725",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8vch9",
+    "keyword": "AI 專案經理",
+    "score": 85,
+    "checked_at": "2026-06-24T09:58:22.633Z",
+    "live_title": "AI產品營運專案經理_15725",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "90jce",
+    "title": "(Product Management) Product Manager(Software & AI)-HTC02226",
+    "company": "",
+    "url": "https://www.104.com.tw/job/90jce",
+    "keyword": "AI 產品經理",
+    "score": 85,
+    "checked_at": "2026-06-24T09:58:24.977Z",
+    "live_title": "(Product Management) Product Manager(Software & AI)-HTC02226",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "8ywie",
+    "title": "Solution PM – Edge Vision AI (iService/ 林口園區)_JR202603008",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8ywie",
+    "keyword": "AI PM",
+    "score": 85,
+    "checked_at": "2026-06-24T09:58:27.279Z",
+    "live_title": "Solution PM – Edge Vision AI (iService/ 林口園區)_JR202603008",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "exception:Timed out after 3000ms waiting for selector button >> internal:has-text=\"確認送出\"i >> nth=0: Timed out after 3000ms waiting for CDP command Runtime.evaluate.\nwaiti"
+  },
+  {
+    "job_id": "91icr",
+    "title": "【資訊中心】AI 應用整合專案經理",
+    "company": "",
+    "url": "https://www.104.com.tw/job/91icr",
+    "keyword": "AI PM",
+    "score": 85,
+    "checked_at": "2026-06-24T09:58:33.240Z",
+    "live_title": "【資訊中心】AI 應用整合專案經理",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "90i0o",
+    "title": "AI 企業解決方案顧問 (AI Enterprise Solution Consultant)｜微軟年度最佳合作夥伴 | 全面 AI 驅動團隊｜領先進入未來工作模式",
+    "company": "",
+    "url": "https://www.104.com.tw/job/90i0o",
+    "keyword": "AI 顧問",
+    "score": 85,
+    "checked_at": "2026-06-24T09:58:35.565Z",
+    "live_title": "AI 企業解決方案顧問 (AI Enterprise Solution Consultant)｜微軟年度最佳合作夥伴 | 全面 AI 驅動團隊｜領先進入未來工作模式",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "applied",
+    "reason": "browser_submit_success",
+    "done_url": "https://www.104.com.tw/job/apply/done/?jobNo=90i0o",
+    "submitted_at": "2026-06-24T09:58:44.600Z"
+  },
+  {
+    "job_id": "8zs8o",
+    "title": "【知名百大顧問品牌外商】NPI Materials Coordinator – ODM Fulfillment Operations #跨國團隊 #一年合約 #薪資可談_ITS_839",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8zs8o",
+    "keyword": "AI 顧問",
+    "score": 85,
+    "checked_at": "2026-06-24T09:58:44.703Z",
+    "live_title": "【知名百大顧問品牌外商】NPI Materials Coordinator – ODM Fulfillment Operations #跨國團隊 #一年合約 #薪資可談_ITS_839",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "8wlhe",
+    "title": "【Atlas Ai 托福雅思線上教育】Ai線上課程諮詢顧問",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8wlhe",
+    "keyword": "AI 顧問",
+    "score": 85,
+    "checked_at": "2026-06-24T09:58:47.087Z",
+    "live_title": "【Atlas Ai 托福雅思線上教育】Ai線上課程諮詢顧問",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "76066",
+    "title": "【稅務服務】稅務科技 AI自動化工具導入諮詢顧問師",
+    "company": "",
+    "url": "https://www.104.com.tw/job/76066",
+    "keyword": "AI 顧問",
+    "score": 85,
+    "checked_at": "2026-06-24T09:58:49.469Z",
+    "live_title": "【稅務服務】稅務科技 AI自動化工具導入諮詢顧問師",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "送出結果不明",
+    "final_url": "https://www.104.com.tw/job/76066?apply=form",
+    "final_text": "工作\n公司\n工具\n職涯\n學習\nAPP\n所有服務\n外商企業現場徵才\n1\n廖天佑\n104人力銀行\n安永聯合會計師事務所\n【稅務服務】稅務科技 AI自動化工具導入諮詢顧問師\n請選取語言\n日文\n英文\n越南文\n由「翻譯」技術提供\n【稅務服務】稅務科技 AI自動化工具導入諮詢顧問師06/24更新\n安永聯合會計師事務所本公司其他工作\n7 天內處理過履歷\n關注\n儲存\n應徵\n應徵人數 0~5 人\n【稅務服務】稅務科技 AI自動化工具導入諮詢顧問師\n安永聯合會計師事務所\n選擇履歷\nBless\n預覽履歷\n自我推薦信\n系統預設\n400/2000\n儲存此次修改\n新增自我推薦信\n取消\n確認送出\n工作內容\n\n1. 負責客戶需求訪談、系統方案配置規劃設計及測試、客戶教育訓練等工作。\n2. 需外勤至客戶現場輔導上線，或遠程支援、排查客戶問題。\n3. 能以良善的溝通技巧，有效梳理客戶需求。 \n4. 配合團隊作業。 \n\n• Process and Controls Enhancement: Re-design and deploy streamlined business processes including new t"
+  },
+  {
+    "job_id": "6px8p",
+    "title": "【台北業務二區】業務顧問｜AI整合行銷｜保障底薪｜數位行銷｜無經驗可",
+    "company": "",
+    "url": "https://www.104.com.tw/job/6px8p",
+    "keyword": "AI 顧問",
+    "score": 85,
+    "checked_at": "2026-06-24T09:58:59.568Z",
+    "live_title": "【台北業務二區】業務顧問｜AI整合行銷｜保障底薪｜數位行銷｜無經驗可",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "91xm7",
+    "title": "TPM專案技術管理專員(Associate Technical Project Manager)-製造自動化",
+    "company": "",
+    "url": "https://www.104.com.tw/job/91xm7",
+    "keyword": "AI 自動化",
+    "score": 85,
+    "checked_at": "2026-06-24T09:59:01.848Z",
+    "live_title": "TPM專案技術管理專員(Associate Technical Project Manager)-製造自動化",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "CAPTCHA/安全驗證"
+  },
+  {
+    "job_id": "8zhmr",
+    "title": "TPM副理級技術專案管理 (Associate Technical Project Manager)-製造自動化",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8zhmr",
+    "keyword": "AI 自動化",
+    "score": 85,
+    "checked_at": "2026-06-24T09:59:04.149Z",
+    "live_title": "TPM副理級技術專案管理 (Associate Technical Project Manager)-製造自動化",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "CAPTCHA/安全驗證"
+  },
+  {
+    "job_id": "8xk48",
+    "title": "Project Manager-BMS/HVAC 【樓宇自控自動化/冷水機組 專案經理】",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8xk48",
+    "keyword": "流程自動化",
+    "score": 85,
+    "checked_at": "2026-06-24T09:59:06.456Z",
+    "live_title": "Project Manager-BMS/HVAC 【樓宇自控自動化/冷水機組 專案經理】",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "送出結果不明",
+    "final_url": "https://www.104.com.tw/job/8xk48?apply=form",
+    "final_text": "工作\n公司\n工具\n職涯\n學習\nAPP\n所有服務\n外商企業現場徵才\n1\n廖天佑\n104人力銀行\nJohnson Controls Taiwan_台灣江森自控股份有限公司\nProject Manager-BMS/HVAC 【樓宇自控自動化/冷水機組 專案經理】\n請選取語言\n日文\n英文\n越南文\n由「翻譯」技術提供\nProject Manager-BMS/HVAC 【樓宇自控自動化/冷水機組 專案經理】06/24更新\nJohnson Controls Taiwan_台灣江森自控股份有限公司本公司其他工作\n關注\n儲存\n應徵\n應徵人數 0~5 人\nProject Manager-BMS/HVAC 【樓宇自控自動化/冷水機組 專案經理】\nJohnson Controls Taiwan_台灣江森自控股份有限公司\n選擇履歷\nBless\n預覽履歷\n自我推薦信\n系統預設\n400/2000\n儲存此次修改\n新增自我推薦信\n取消\n確認送出\n工作內容\n\n工作範圍 Scope of Works：\n負責所分配之系統大型專案及／或機電或設備類專案的獲利性執行。需視需求與業主及承包商銷售團隊、HVAC/BMS 團隊合作，提"
+  },
+  {
+    "job_id": "90724",
+    "title": "(HTC) AI Product Management (Senior specialist)",
+    "company": "",
+    "url": "https://www.104.com.tw/job/90724",
+    "keyword": "AI 產品經理",
+    "score": 75,
+    "checked_at": "2026-06-24T09:59:16.487Z",
+    "live_title": "(HTC) AI Product Management (Senior specialist)",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "送出結果不明",
+    "final_url": "https://www.104.com.tw/job/90724?apply=form",
+    "final_text": "工作\n公司\n工具\n職涯\n學習\nAPP\n所有服務\n外商企業現場徵才\n1\n廖天佑\n104人力銀行\n宏達電 HTC Corporation_宏達國際電子股份有限公司\n(HTC) AI Product Management (Senior specialist)\n請選取語言\n日文\n英文\n越南文\n由「翻譯」技術提供\n(HTC) AI Product Management (Senior specialist)06/24更新\n宏達電 HTC Corporation_宏達國際電子股份有限公司本公司其他工作\n7 小時前處理過履歷\n徵才積極度：非常活躍\n關注\n儲存\n應徵\n應徵人數 11~30 人\n(HTC) AI Product Management (Senior specialist)\n宏達電 HTC Corporation_宏達國際電子股份有限公司\n選擇履歷\nBless\n預覽履歷\n自我推薦信\n系統預設\n400/2000\n儲存此次修改\n新增自我推薦信\n取消\n確認送出\n工作內容\n\n工作說明\n\n1.與醫院、學校及大型機構客戶合作，釐清 AI 應用場景與真實需求，定義具商業價值的產品方向。\n2.直接參與業"
+  },
+  {
+    "job_id": "8zerb",
+    "title": "生成式AI影像工程師 (工作地點：新北板橋)",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8zerb",
+    "keyword": "AI 導入",
+    "score": 75,
+    "checked_at": "2026-06-24T09:59:26.574Z",
+    "live_title": "生成式AI影像工程師 (工作地點：新北板橋)",
+    "fit": {
+      "ok": false,
+      "includeMain": true,
+      "roleOk": false,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "skipped",
+    "reason": "title_fit_not_match"
+  },
+  {
+    "job_id": "8x9lc",
+    "title": "(資深)生成式AI工程師",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8x9lc",
+    "keyword": "生成式AI",
+    "score": 75,
+    "checked_at": "2026-06-24T09:59:28.913Z",
+    "live_title": "(資深)生成式AI工程師",
+    "fit": {
+      "ok": false,
+      "includeMain": true,
+      "roleOk": false,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "skipped",
+    "reason": "title_fit_not_match"
+  },
+  {
+    "job_id": "8wl88",
+    "title": "軟體產品經理 Product Manager - SaaS",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8wl88",
+    "keyword": "AI Product Manager",
+    "score": 100,
+    "checked_at": "2026-06-24T10:03:19.652Z",
+    "live_title": "軟體產品經理 Product Manager - SaaS",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "CAPTCHA/安全驗證"
+  },
+  {
+    "job_id": "92t4p",
+    "title": "[B2B] AI產品經理 (數位行銷產品與CRM)",
+    "company": "",
+    "url": "https://www.104.com.tw/job/92t4p",
+    "keyword": "生成式 AI 專案",
+    "score": 100,
+    "checked_at": "2026-06-24T10:03:22.147Z",
+    "live_title": "[B2B] AI產品經理 (數位行銷產品與CRM)",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "8yf1l",
+    "title": "【AI數位金融】數位金融營運管理專業人員",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8yf1l",
+    "keyword": "AI 流程",
+    "score": 85,
+    "checked_at": "2026-06-24T10:03:24.730Z",
+    "live_title": "【AI數位金融】數位金融營運管理專業人員",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "review_needed",
+    "reason": "雇主額外提問"
+  },
+  {
+    "job_id": "8z0wh",
+    "title": "TUMI TAIWAN : Senior Sales Associate 資深銷售顧問 / Sales Associate 銷售顧問",
+    "company": "",
+    "url": "https://www.104.com.tw/job/8z0wh",
+    "keyword": "數位創新 顧問",
+    "score": 85,
+    "checked_at": "2026-06-24T10:03:27.124Z",
+    "live_title": "TUMI TAIWAN : Senior Sales Associate 資深銷售顧問 / Sales Associate 銷售顧問",
+    "fit": {
+      "ok": true,
+      "includeMain": true,
+      "roleOk": true,
+      "bad": false,
+      "hardwareBad": false
+    },
+    "status": "skipped",
+    "reason": "title_fit_not_match"
+  }
+]
